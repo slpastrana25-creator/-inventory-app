@@ -1,0 +1,3 @@
+# Keep real credentials out of GitHub: copy config.php to config.local.php if you prefer, and ignore it
+.DS_Store
+*.log
