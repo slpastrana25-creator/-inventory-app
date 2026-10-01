@@ -15,7 +15,6 @@ form.php      add + edit (Create/Update)
 delete.php    delete (Delete)
 config.php    MySQLi connection
 database.sql  table + sample data
-assets/       style.css, app.js
 ```
 
 ## Run locally (XAMPP)

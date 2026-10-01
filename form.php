@@ -49,7 +49,7 @@ $title = $id > 0 ? 'Edit Product' : 'Add Product';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?= e($title) ?></title>
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container narrow">
@@ -69,6 +69,6 @@ $title = $id > 0 ? 'Edit Product' : 'Add Product';
     </div>
   </form>
 </div>
-<script src="assets/app.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
